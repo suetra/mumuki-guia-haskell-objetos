@@ -1,1 +1,1 @@
-Objeto
+Guía de prueba POO
