@@ -1,0 +1,1 @@
+cariable int valor 10

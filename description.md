@@ -1,1 +1,1 @@
-Guía de prueba POO
+declara una variable int valor 10
