@@ -1,1 +1,1 @@
-Inicializá la variable entera de instancia `ruedas` con el valor 4.
+> Inicializá la variable entera de instancia `ruedas` con el valor 4.
