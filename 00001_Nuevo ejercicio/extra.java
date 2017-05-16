@@ -1,4 +1,5 @@
 class Auto {
-  int ruedas;
+  public int ruedas;
+  ruedas = 4;
   /*...content...*/
 }
