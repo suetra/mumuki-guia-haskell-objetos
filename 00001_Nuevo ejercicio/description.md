@@ -1,1 +1,1 @@
-cariable int valor 10
+Asigna a la variable ruedas el valor de 4
