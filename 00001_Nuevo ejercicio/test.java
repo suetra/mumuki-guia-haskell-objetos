@@ -1,6 +1,5 @@
-@test
-boolean axl() {
-  boolean x;
-  x=(a==10);
-  return x
+@Test
+public void lasRuedasSon4() {
+  auto = new Auto();
+  assertEquals(4, auto.ruedas)
 }
