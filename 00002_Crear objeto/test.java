@@ -1,7 +1,7 @@
 @Test
 
 public class HeroesNacionales {
-  public nombre = "";
+  
   public HeroesNacionales(String n) {
     this.nombre = n; 
   }
