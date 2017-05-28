@@ -9,5 +9,5 @@ public class HeroesNacionales {
 
 
 public void haySanMartin() {
-  Assert.assertEquals(, "San Martin");
+  Assert.assertEquals(libertador.nombre, "San Martin");
 }
