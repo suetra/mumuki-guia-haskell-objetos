@@ -1,12 +1,13 @@
 @Test
 
 public class HeroesNacionales {
-  
-  public HeroesNacionales(String n) {
-    this.nombre = n; 
+  String nombre = "";
+  public HeroesNacionales(String name) {
+    this.nombre = name; 
   }
 }
 
+
 public void haySanMartin() {
-  Assert.assertEquals(libertador.nombre, "San Martin");
+  Assert.assertEquals(, "San Martin");
 }
